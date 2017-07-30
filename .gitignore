@@ -1,0 +1,13 @@
+# IDE
+.idea
+.vscode
+
+# Hide actual wifi config
+/scripts/wpa.conf
+
+# Build artifacts
+/newIso
+/iso
+/md5sum.txtmextract_iso
+/ubuntu-17.04-server-amd64.iso
+/ubuntu-hammer-amd64.iso
